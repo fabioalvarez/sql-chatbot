@@ -1,0 +1,21 @@
+id,category_id,sku,name,stock,price,image,created_at,updated_at
+1,1,SKU001,Spring Rolls,100,10.00,spring_rolls.png,2024-01-01 08:00:00,2024-01-01 08:00:00
+2,1,SKU002,Garlic Bread,150,8.00,garlic_bread.png,2024-01-02 09:00:00,2024-01-02 09:00:00
+3,2,SKU003,Spaghetti,200,12.00,spaghetti.png,2024-01-03 10:00:00,2024-01-03 10:00:00
+4,2,SKU004,Grilled Chicken,80,15.00,grilled_chicken.png,2024-01-04 11:00:00,2024-01-04 11:00:00
+5,3,SKU005,Chocolate Cake,50,6.00,chocolate_cake.png,2024-01-05 12:00:00,2024-01-05 12:00:00
+6,4,SKU006,Coke,300,2.00,coke.png,2024-01-06 13:00:00,2024-01-06 13:00:00
+7,4,SKU007,Tea,150,1.50,tea.png,2024-01-07 14:00:00,2024-01-07 14:00:00
+8,5,SKU008,French Fries,75,3.00,french_fries.png,2024-01-08 15:00:00,2024-01-08 15:00:00
+9,6,SKU009,Caesar Salad,40,7.00,caesar_salad.png,2024-01-09 16:00:00,2024-01-09 16:00:00
+10,7,SKU010,Grilled Salmon,30,20.00,grilled_salmon.png,2024-01-10 17:00:00,2024-01-10 17:00:00
+11,8,SKU011,BBQ Ribs,50,25.00,bbq_ribs.png,2024-01-11 18:00:00,2024-01-11 18:00:00
+12,9,SKU012,Tofu Stir Fry,60,12.00,tofu_stir_fry.png,2024-01-12 19:00:00,2024-01-12 19:00:00
+13,10,SKU013,Milkshake,70,5.00,milkshake.png,2024-01-13 20:00:00,2024-01-13 20:00:00
+14,7,SKU014,Lobster,20,30.00,lobster.png,2024-01-14 21:00:00,2024-01-14 21:00:00
+15,6,SKU015,Greek Salad,90,10.00,greek_salad.png,2024-01-15 22:00:00,2024-01-15 22:00:00
+16,11,SKU016,Chicken Wings,55,20.00,chicken_wings.png,2024-02-16 18:00:00,2024-02-16 18:00:00
+17,12,SKU017,Quinoa Salad,65,15.00,quinoa_salad.png,2024-02-17 19:00:00,2024-02-17 19:00:00
+18,13,SKU018,Burger,75,10.00,burger.png,2024-02-18 20:00:00,2024-02-18 20:00:00
+19,14,SKU019,Shrimp Cocktail,25,35.00,shrimp_cocktail.png,2024-02-19 21:00:00,2024-02-19 21:00:00
+20,15,SKU020,Caesar Wrap,95,12.00,caesar_wrap.png,2024-02-20 22:00:00,2024-02-20 22:00:00
