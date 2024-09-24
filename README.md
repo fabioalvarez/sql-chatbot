@@ -22,7 +22,7 @@ and synthesizing responses.
     ```env
     POSTGRES_USER=your_postgres_user
     POSTGRES_PASSWORD=your_postgres_password
-    POSTGRES_HOST=your_postgres_host
+    POSTGRES_HOST=localhost
     POSTGRES_PORT=your_postgres_port
     POSTGRES_DB=your_postgres_db
     OPENAI_API_KEY=your_openai_api_key
